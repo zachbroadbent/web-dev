@@ -1,0 +1,35 @@
+body {
+	background-color: Maroon
+}
+h1 {
+	color: White;
+	background-color: gray;
+	font-family: "Courier New";
+	font-size: 90px;
+	border: 6px solid gray;
+	border-style: outset;
+	outline: 8px outset black;
+}
+ul{
+	color: White;
+	font-family: "Courier New";
+	font-size: 30px;
+	border: gray;
+	border-style: outset;
+	background-color: gray;
+	position: fixed;
+	bottom: 0;
+	width: 1000px;
+}
+li {
+	display: inline;
+}
+p {
+	color: White;
+	font-family: "Courier New";
+	font-size: 30px;
+	border: gray;
+	border-style: outset;
+	background-color: gray;
+	float: right;
+}

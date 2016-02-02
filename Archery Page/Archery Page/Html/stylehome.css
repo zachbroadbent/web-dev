@@ -1,0 +1,37 @@
+ul{
+	color: White;
+	font-family: "Courier New";
+	font-size: 30px;
+	border: gray;
+	border-style: outset;
+	background-color: gray;
+}
+li {
+	display: inline;
+}
+p {
+	color: White;
+	font-family: "Courier New";
+	font-size: 60px;
+	border: gray;
+	border-style: outset;
+	background-color: gray;
+	float: right;
+}
+img {
+	border: white;
+	border-style: outset;
+	background-color: white;
+}
+body {
+	background-color: Maroon
+}
+h1 {
+	color: White;
+	background-color: gray;
+	font-family: "Courier New";
+	font-size: 90px;
+	border: 6px solid gray;
+	border-style: outset;
+	outline: 20px outset black;
+}
