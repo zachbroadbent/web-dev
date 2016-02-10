@@ -1,5 +1,5 @@
 body {
-	background-color: Maroon
+	background-color: Maroon;
 }
 h1 {
 	color: White;
@@ -10,6 +10,13 @@ h1 {
 	border-style: outset;
 	outline: 8px outset black;
 }
+img {
+	border: white;
+	border-style: outset;
+	background-color: white;
+	width: 100px;
+	height: 100px;
+}
 ul{
 	color: White;
 	font-family: "Courier New";
@@ -17,8 +24,6 @@ ul{
 	border: gray;
 	border-style: outset;
 	background-color: gray;
-	position: fixed;
-	bottom: 0;
 	width: 1000px;
 }
 li {
@@ -32,4 +37,8 @@ p {
 	border-style: outset;
 	background-color: gray;
 	float: right;
+}
+a {
+	color: white;
+	text-decoration: none;
 }
